@@ -1,2 +1,2 @@
 # DL-labs
-DL labs
+DL labs.
